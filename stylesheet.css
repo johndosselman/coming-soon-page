@@ -26,5 +26,5 @@ body {
 
 .svg-glow {
   fill: #ff8c006b;
-  filter: drop-shadow(0 0 20px rgba(255, 145, 0, 0.557));
+  filter: drop-shadow(0 0 20px rgb(255, 145, 0));
 }
